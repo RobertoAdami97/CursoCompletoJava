@@ -1,0 +1,13 @@
+package com.excript.atributosdeclasse;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Mobile mobile;
+		mobile = new Mobile();
+		mobile.volume = 5;
+		mobile.ligado = true;
+	}
+	
+	
+}
