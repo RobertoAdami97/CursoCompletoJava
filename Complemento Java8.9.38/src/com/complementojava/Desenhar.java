@@ -24,7 +24,7 @@ public class Desenhar extends JFrame {
 		g.fillRect(700,450,400,400);
 		g.setColor(Color.RED);
 		g.fillOval(720, 470, 360, 360);
-		g.clearRect(200,200,600,600);
+		g.clearRect(200,200,600,6);
 	}
 	
 
